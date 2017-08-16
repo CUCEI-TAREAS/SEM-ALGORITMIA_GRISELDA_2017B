@@ -1,0 +1,2 @@
+# SEM-ALGORITMIA_GRISELDA_2017B
+Seminario de Algoritmia 2017 
